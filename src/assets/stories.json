@@ -1,0 +1,14 @@
+[
+  {
+    "place": "lonavla",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+  },
+  {
+    "place": "Mumbai",
+    "description": "Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+  },
+  {
+    "place": "Pune",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+  }
+]

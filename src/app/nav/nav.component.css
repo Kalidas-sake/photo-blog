@@ -1,0 +1,13 @@
+.navbar {
+  padding: 0;
+  box-shadow: 0 0.5px 4px 2px #0000006c;
+}
+
+.nav-link {
+  padding: 4px;
+}
+
+
+.navbar-brand {
+  padding: 10px;
+}
