@@ -1,0 +1,44 @@
+[
+  {
+    "place": "Visapur Dam",
+    "date": "13 Sept 2020",
+    "title": "Evening at Visapur dam",
+    "thumbnail":["dam,evening"],
+    "description": "Visapur Dam, is an earthfill dam on Hanga river near Srigonda, Ahmednagar district in the state of Maharashtra in India. It is Very Old Dam & is developed by British government in 1905. Now this dam is included in kukdi prakalp & this dam is used to provide Water to the Farms"
+  },
+  {
+    "place": "Talegaon Dabhade",
+    "date": "01 July - 15 Aug 2020",
+    "title": "Monsoon and Beautiful Location",
+    "thumbnail":["lonavala,rain,hills"],
+    "description": "Talegaon Dabhade is a town in Mawal Taluka, Pune district, in the Indian state of Maharashtra. It is 120 km from Mumbai and 35 km from Pune. "
+  },
+  {
+    "place": "Kolgaon, Sakewadi",
+    "date": "01 March - Today 2020",
+    "title": "Stay Home, Stay Safe",
+    "thumbnail":["village,maharashtra,food"],
+    "description": "The COVID‑19 pandemic, also known as the coronavirus pandemic, is an ongoing pandemic of coronavirus disease 2019 (COVID‑19) caused by severe acute respiratory syndrome coronavirus 2. In this pandemic to limit the spread of COVID-19 we all have to follow the rules made by government. STAY HOME, STAY SAFE."
+  },
+  {
+    "place": "Torna Fort",
+    "date": "10 Oct 2019",
+    "title": "Bike tour with friends",
+    "thumbnail":["forts,maharashtra"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+  },
+  {
+    "place": "Pune",
+    "date": "2018-19",
+    "title": "Love Pune",
+    "thumbnail":["pune,city,food"],
+    "description": "Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+  },
+  {
+    "place": "Lonavala",
+    "date": "2015-18",
+    "title": "Just wow for now :)",
+    "thumbnail":["lonavala,rain"],
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+  }
+]
