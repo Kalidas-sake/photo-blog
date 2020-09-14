@@ -25,20 +25,20 @@
     "date": "10 Oct 2019",
     "title": "Bike tour with friends",
     "thumbnail":["forts,maharashtra"],
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+    "description": "Torna Fort, also known as Prachandagad, is a large fort located in Pune district, in the Indian state of Maharashtra. It is historically significant because it was the first fort captured by Chatrapati Shivaji Maharaj in 1646, at the age of 16, forming the nucleus of the Maratha empire."
   },
   {
     "place": "Pune",
     "date": "2018-19",
     "title": "Love Pune",
-    "thumbnail":["pune,city,food"],
-    "description": "Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+    "thumbnail":["pune,food,tour"],
+    "description": "Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace, built in 1892 and now a memorial to Mahatma Gandhi, whose ashes are preserved in the garden. The 8th-century Pataleshwar Cave Temple is dedicated to the Hindu god Shiva."
   },
   {
     "place": "Lonavala",
     "date": "2015-18",
     "title": "Just wow for now :)",
-    "thumbnail":["lonavala,rain"],
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem perferendis nemo consectetur dolorem, laborum fugit eos enim dicta quasi libero error! Sequi modi necessitatibus est quisquam dolor eligendi voluptatibus commodi."
+    "thumbnail":["lonavala,rain,tour"],
+    "description": "Lonavala is a hill station surrounded by green valleys in western India near Mumbai. The Karla Caves and the Bhaja Caves are ancient Buddhist shrines carved out of the rock. They feature massive pillars and intricate relief sculptures. South of the Bhaja Caves sits the imposing Lohagad Fort, with its 4 gates. West of here is Bhushi Dam, where water overflows onto a set of steps during rainy season."
   }
 ]
