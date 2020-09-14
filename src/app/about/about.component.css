@@ -1,0 +1,40 @@
+#team {
+    background: #eee !important;
+}
+
+
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#team .card {
+    border: none;
+    background: #ffffff;
+}
+
+.card{
+  border: 0.2px thin gray;
+}
+
+.card a {
+    font-size: 18px;
+    color: #000000 !important;
+}
+
+.card .card-title,
+ .card .card-title {
+    color: #000000 !important;
+}
+
+.card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}

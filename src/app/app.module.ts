@@ -7,7 +7,6 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { PostsComponent } from './posts/posts.component';
 import { NavComponent } from './nav/nav.component';
-import { CarouselComponent } from './home/carousel/carousel.component';
 import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
@@ -17,7 +16,6 @@ import { FooterComponent } from './footer/footer.component';
     AboutComponent,
     PostsComponent,
     NavComponent,
-    CarouselComponent,
     FooterComponent
   ],
   imports: [

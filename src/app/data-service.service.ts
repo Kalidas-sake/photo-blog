@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import * as stories from '../assets/stories.json';
+import * as about from '../assets/about.json';
 import * as posts from '../assets/posts.json';
 
 @Injectable({
@@ -9,11 +9,11 @@ export class DataServiceService {
 
   constructor() { }
 
-  getStories() {
-    return JSON.stringify(stories);
+  getAbout() {
+    return JSON.parse(JSON.stringify(about)).default;
   }
 
   getPosts() {
-    return JSON.stringify(posts);
+    return JSON.parse(JSON.stringify(posts)).default;
   }
 }

@@ -11,7 +11,7 @@ export class PostsComponent implements OnInit {
   constructor(private dataService: DataServiceService) { }
 
   ngOnInit(): void {
-    this.posts = JSON.parse(this.dataService.getPosts()).default
+    this.posts = this.dataService.getPosts();
   }
 
 }
