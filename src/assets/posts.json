@@ -3,42 +3,42 @@
     "place": "Visapur Dam",
     "date": "13 Sept 2020",
     "title": "Evening at Visapur dam",
-    "thumbnail":["dam,evening"],
+    "thumbnail":"https://lh3.googleusercontent.com/pw/ACtC-3fjH-poeJbG0CmxtHXaEhs2Pmyi6qa3l0Yb9Dw7OH_TJ1sladXBtiQ0z-_998QLqUxmeVSYaElXeuHZuBdfoRgZ2SERPYMIGjzaoYYCJgkOHDmByrnSp_Ke5eyinIjx7U0gOVrnlLZ4c0oBi8AkKy-UXA=w828-h621-no",
     "description": "Visapur Dam, is an earthfill dam on Hanga river near Srigonda, Ahmednagar district in the state of Maharashtra in India. It is Very Old Dam & is developed by British government in 1905. Now this dam is included in kukdi prakalp & this dam is used to provide Water to the Farms"
   },
   {
     "place": "Talegaon Dabhade",
     "date": "01 July - 15 Aug 2020",
     "title": "Monsoon and Beautiful Location",
-    "thumbnail":["lonavala,rain,hills"],
+    "thumbnail":"",
     "description": "Talegaon Dabhade is a town in Mawal Taluka, Pune district, in the Indian state of Maharashtra. It is 120 km from Mumbai and 35 km from Pune. "
   },
   {
     "place": "Kolgaon, Sakewadi",
     "date": "01 March - Today 2020",
     "title": "Stay Home, Stay Safe",
-    "thumbnail":["village,maharashtra,food"],
+    "thumbnail":"",
     "description": "The COVID‑19 pandemic, also known as the coronavirus pandemic, is an ongoing pandemic of coronavirus disease 2019 (COVID‑19) caused by severe acute respiratory syndrome coronavirus 2. In this pandemic to limit the spread of COVID-19 we all have to follow the rules made by government. STAY HOME, STAY SAFE."
   },
   {
     "place": "Torna Fort",
     "date": "10 Oct 2019",
     "title": "Bike tour with friends",
-    "thumbnail":["forts,maharashtra"],
+    "thumbnail":"",
     "description": "Torna Fort, also known as Prachandagad, is a large fort located in Pune district, in the Indian state of Maharashtra. It is historically significant because it was the first fort captured by Chatrapati Shivaji Maharaj in 1646, at the age of 16, forming the nucleus of the Maratha empire."
   },
   {
     "place": "Pune",
     "date": "2018-19",
     "title": "Love Pune",
-    "thumbnail":["pune,food,tour"],
+    "thumbnail":"",
     "description": "Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace, built in 1892 and now a memorial to Mahatma Gandhi, whose ashes are preserved in the garden. The 8th-century Pataleshwar Cave Temple is dedicated to the Hindu god Shiva."
   },
   {
     "place": "Lonavala",
     "date": "2015-18",
     "title": "Just wow for now :)",
-    "thumbnail":["lonavala,rain,tour"],
+    "thumbnail":"",
     "description": "Lonavala is a hill station surrounded by green valleys in western India near Mumbai. The Karla Caves and the Bhaja Caves are ancient Buddhist shrines carved out of the rock. They feature massive pillars and intricate relief sculptures. South of the Bhaja Caves sits the imposing Lohagad Fort, with its 4 gates. West of here is Bhushi Dam, where water overflows onto a set of steps during rainy season."
   }
 ]

@@ -2,7 +2,7 @@
   <div class="row justify-content-center no-gutters">
     <div class="col-10">
       <div *ngIf="latestPost !== undefined">
-        <img class="img-fluid material-box" src="https://source.unsplash.com/900x400/?{{latestPost.place}}"
+        <img class="img-fluid material-box" [src]="latestPost.thumbnail"
           alt="{{latestPost.place}}" width="900" height="400">
         <h1 class="mt-4">{{latestPost.title}}</h1>
         <p><span class="post-place">{{latestPost.place}} ({{latestPost.date}}) </span>
